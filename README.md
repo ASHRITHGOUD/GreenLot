@@ -146,7 +146,7 @@ We welcome contributions! Feel free to fork the repo, improve the UI, suggest ne
 Have questions or suggestions? Reach out via:
 
 - GitHub Issues
-- siddagounirohith@gmail.com
+- jinukuntlaashrithgoud777@gmail.com
 
 
 ---
